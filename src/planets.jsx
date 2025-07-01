@@ -43,5 +43,5 @@ export const planets = [
         Name: "Pluto",
         Temperature: "-233 °C",
         Atmosphere: "tropical arctic zone will experience maximum cyclical extremes cold and is optimum for seasonal layering of clothes.",
-    },
+    }
 ]
